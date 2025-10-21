@@ -1,0 +1,22 @@
+# Core data & visualization
+pandas
+matplotlib
+seaborn
+
+# Environment variables
+python-dotenv
+
+# LLM + LangChain ecosystem
+langchain-community
+langchain-openai
+langchain-chroma
+transformers
+
+# Model & dataset management
+kagglehub
+
+# UI & interactive tools
+gradio
+jupyter
+notebook
+ipywidgets
