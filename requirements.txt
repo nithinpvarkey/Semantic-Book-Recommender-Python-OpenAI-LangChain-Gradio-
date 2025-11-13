@@ -20,3 +20,8 @@ gradio
 jupyter
 notebook
 ipywidgets
+
+# Hugging Face + embedding models
+sentence-transformers
+transformers
+torch       # backend for sentence-transformers
