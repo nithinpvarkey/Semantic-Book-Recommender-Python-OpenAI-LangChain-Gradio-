@@ -12,6 +12,7 @@ langchain-openai
 langchain-chroma
 transformers
 
+
 # Model & dataset management
 kagglehub
 
