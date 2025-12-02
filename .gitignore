@@ -207,6 +207,6 @@ marimo/_lsp/
 __marimo__/
 book-recom-python-3.10/
 .python-version
-books_cleaned.csv
-tagged_description.txt
-books_with_categories.csv
+books_cleaned.csv/
+tagged_description.txt/
+books_with_categories.csv/
